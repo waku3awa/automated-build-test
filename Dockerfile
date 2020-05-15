@@ -1,3 +1,3 @@
-FORM dockersample/static-site
+FROM dockersample/static-site
 ENV AUTHOR="karakawa"
 
